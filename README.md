@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, my name is Natasha 👋
+
+# About me
+I'm Nat, and I live in Singapore. This github is where I keep track of various codes I've written - usually when attempting to learn a new language.
+
+I've had some experience coding with Python, Java, Javascript and C. Currently, I'm improving my Python skills, and learning how to hack (ethically).
 
 <!--
 **natashatyt888/natashatyt888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
