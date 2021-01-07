@@ -5,6 +5,8 @@ I'm Nat, and I live in Singapore. This github is where I keep track of various c
 
 I've had some experience coding with Python, Java, Javascript and C. Currently, I'm improving my Python skills, and learning how to hack (ethically).
 
+I learn primarily from [Udemy](https://www.udemy.com/user/natasha-tan-6/) courses.
+
 <!--
 **natashatyt888/natashatyt888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
